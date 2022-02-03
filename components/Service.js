@@ -40,7 +40,7 @@ const Service = () => {
             <h4 className='my-5 fw-bold'>Audit</h4>
             <p className=''>
                 we go on for a full security check on your website 
-                to keep the bad guy from away. We hire our best 
+                to keep the bad guy away. We hire our best 
                 security expert so that your website stay strong.
             </p>
         </div>
